@@ -1,10 +1,9 @@
 <h1 align="center">hey 👋 i'm Varaprasad</h1>
-
 <p align="center">
 🚀 Turning caffeine into code and ideas into applications.
 </p>
+
 💫 About Me<br><br>🛠️ Computer Science student with knowledge of C, Java, HTML, and CSS, focused on improving development and problem-solving skills through hands-on learning.<br><br>🌱 Currently learning the MERN Stack and practicing Data Structures & Algorithms to strengthen full stack development skills.<br><br>☁️ Familiar with AWS services like EC2 and S3, with a growing interest in backend and cloud technologies.<br><br>🤝 Open to learning new technologies, collaborating on projects, and building real-world applications.<br><br>📫 Reach me at:varaprasadsampatirao@gmail.com
-# 💫 About Me:
 
 
 ## 🌐 Socials:
